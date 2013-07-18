@@ -1,6 +1,7 @@
 package your.honesty.testapp;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.widget.Button;
 
@@ -12,5 +13,6 @@ public class TestGitActivity extends Activity {
         setContentView(R.layout.main);
         Button button = (Button)findViewById(R.id.bt_me);
         button.setText("Button");
+        button.setBackgroundColor(Color.RED);
     }
 }

@@ -19,8 +19,4 @@ public class TestGitActivity extends Activity {
     	//TODO 
     	System.out.println("init");
     }
-    
-    private void init(){
-    	//TODO ≥ı ºªØ
-    }
 }

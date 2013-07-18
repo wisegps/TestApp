@@ -11,5 +11,6 @@ public class TestGitActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         Button button = (Button)findViewById(R.id.bt_me);
+        button.setText("Button");
     }
 }

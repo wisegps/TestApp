@@ -15,4 +15,8 @@ public class TestGitActivity extends Activity {
         button.setText("Button");
         button.setBackgroundColor(Color.RED);
     }
+    
+    private void init(){
+    	//TODO ≥ı ºªØ
+    }
 }

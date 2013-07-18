@@ -13,6 +13,10 @@ public class TestGitActivity extends Activity {
         setContentView(R.layout.main);
         Button button = (Button)findViewById(R.id.bt_me);
         button.setText("Button");
-        button.setBackgroundColor(Color.RED);
+        button.setBackgroundColor(Color.RED);        
+    }
+    public void init(){
+    	//TODO 
+    	System.out.println("init");
     }
 }

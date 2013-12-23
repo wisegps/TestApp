@@ -19,5 +19,6 @@ public class TestGitActivity extends Activity {
     	//TODO 
     	System.out.println("init");
     	System.out.println("init,too");
+    	System.out.println("init,too");
     }
 }
